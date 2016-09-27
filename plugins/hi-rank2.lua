@@ -16,7 +16,7 @@ local function run(msg, matches)
             text = text..'سلام\n\n'
        end
        else
-        text = text..'سلام '..value..'  \n\n'
+        text = text..'سلام ممه دالی ؟😢 '..value..'  \n\n'
       end
  return text
      
