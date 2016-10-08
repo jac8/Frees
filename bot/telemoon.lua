@@ -233,7 +233,7 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {265368212,200750650},--Sudo users
+    sudo_users = {287147726},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[TeleMoon V.4
 An advanced administration bot based on TG-CLI written in Lua Open source!
@@ -244,7 +244,7 @@ https://github.com/MoonTeamBot/TeleMoon
 Admins:
 @MAKAN [Developer, Founder, Manager]
 
-@UnFriendlly [Developer, Manager]
+@HellCrazy [Developer, Manager]
 
 @Dilan [Manager]
 
